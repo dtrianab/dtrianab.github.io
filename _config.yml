@@ -80,10 +80,11 @@ coursera:
 #This section is optional - embeds slideshows from speakerdeck
 # to get the speakerdeck ID copy the embed code and look for the data-it attribute
 speakerdeck:
-   profileurl: https://speakerdeck.com/robhinds
+   profileurl: https://speakerdeck.com/dtrianab
    talks:
     - title: Product Management for Engineers
-      speakerdeckId: 94f0070c4e434ec79fe9b4eb2cb574e0
+      #speakerdeckId: 94f0070c4e434ec79fe9b4eb2cb574e0
+      speakerdeckId: preliminary-project-plan
       conference: API Conference, Berlin 2018
     - title: Agile Machine Learning - from Theory to Production
       speakerdeckId: ec84f2f56e9743afb0675b1eeeb6b6ce
