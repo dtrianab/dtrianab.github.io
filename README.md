@@ -1,8 +1,8 @@
 # A CV Template forked by Diego Triana
 
-This is a Jekyll based CV page generator forked and adjusted to the user.
+This is a Jekyll based CV page generator forked and adjusted to the user. This version web page can be seen in the link: dtrianab.github.io 
 
-You can checkout the original page generated on this repo here: https://robhinds.github.io
+You can checkout the original page generated (here)[https://robhinds.github.io].
 
 GitHub provides native support for Jekyll sites as part of its user pages (https://{{yourusername}}.github.io), so as well as hosting the Jekyll project on GitHub, it also automatically builds and serves the site for you on a nice share-able URL.
 
