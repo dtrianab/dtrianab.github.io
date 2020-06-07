@@ -80,10 +80,10 @@ coursera:
 speakerdeck:
    profileurl: https://speakerdeck.com/dtrianab
    talks:
-    - title: Product Management for Engineers
-      #speakerdeckId: 94f0070c4e434ec79fe9b4eb2cb574e0
+    - title: Forecasting of PM2.5 with Neural Networks
+      speakerdeckId: dead034cbabe4c7f9f7e5cfeabf59fc3
       speakerdeckId: preliminary-project-plan
-      conference: API Conference, Berlin 2018
+      conference: Warsaw university of Technology, Warsaw 2018
     - title: Agile Machine Learning - from Theory to Production
       speakerdeckId: ec84f2f56e9743afb0675b1eeeb6b6ce
       conference: W-JAX Conference, Munich 2017 (London 2017)
