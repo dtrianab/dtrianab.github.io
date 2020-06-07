@@ -90,8 +90,10 @@ speakerdeck:
 
 #List of interesting Github repo/projects to include - optional
 github:
- - robhinds/robhinds.github.io
- - robhinds/ScaLambda
+ - dtriana/dtriana.github.io
+ - dtriana/Calculating-Total-Harmonic-Distortion
+ - dtrianab/Abalon-Project
+ - dtrianab/Particulate_Matter_Prediction
 
 
 #Stackoverflow flair is optional
@@ -100,9 +102,10 @@ github:
 #   flairimageurl: https://stackoverflow.com/users/flair/258813.png
 
 intro: |
-  I am an engineer with 15 years experience working in technology. I have primarily worked on the JVM, but have worked across a broad range of technologies thereon: Java, Groovy, Android, Coldfusion and most recently Scala. As well as spending a reasonable amount of time building applications for the web, which has given me an exposure to a range of javascript technologies over the years, through jQuery, extjs, knockout, backbone and most recently to React. <br/><br/>
-  I enjoy building interesting products, with a good Product Management focus and a good emphasis on good engineering principles and clean code (having worked across differing languages on the JVM, I recognise that good code is contextual).<br/><br/>
-  I have worked in large scale consultancy roles across Europe as well as a mix of startup experience (including one that was acquired) and I am currently the Chief Technology Officer at a legal-tech startup called <a href="https://www.basementcrowd.com" target="_blank">Basement Crowd</a> where we are building innovative products to serve the legal industry.
+  Electronic engineer, Msc. Electrical Engineering with specialization in automatics and robotics. Analytical and curious person, self lerner and hard team worker. Data-driven solutions searcher, defining and solving questions that data may provide in a information society that changes and evolves dinamically day by day. Mi skills cover not only mathematical expertise but also hands on scientifc programming acquired in academic enviroment thoroughly. Within the tools I have had close contact are: Python, C++, R, Matlab. Some projects can be seen in my GitHub Profile.<br/><br/>
+  I have worked across a broad range of technologies thereon: R, Matlab, C++, Python. 
+  I enjoy building interesting solutions, I recognise that good code is contextual).<br/><br/>
+  I am currently booting my carrier right after achieving my master degree and am looking forward to develelop myself on datasciece and technology paths.
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
