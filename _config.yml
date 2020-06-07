@@ -83,9 +83,9 @@ speakerdeck:
     - title: Forecasting of PM2.5 with Neural Networks
       speakerdeckId: dead034cbabe4c7f9f7e5cfeabf59fc3
       conference: Warsaw university of Technology, Warsaw 2018
-    - title: Agile Machine Learning - from Theory to Production
-      speakerdeckId: ec84f2f56e9743afb0675b1eeeb6b6ce
-      conference: W-JAX Conference, Munich 2017 (London 2017)
+    - title: DAILY PREDICTION OF PARTICULATE MATTERS USING NEURAL NETWORKS AND ENSEMBLING METHODS
+      speakerdeckId: 57e950a3f82f40068a9804bbe2a7a7aa
+      conference: Warsaw university of Technology, Warsaw 2019
 
 #List of interesting Github repo/projects to include - optional
 github:
@@ -101,10 +101,10 @@ github:
 #   flairimageurl: https://stackoverflow.com/users/flair/258813.png
 
 intro: |
-  Electronic engineer, Msc. Electrical Engineering with specialization in automatics and robotics. Analytical and curious person, self lerner and hard team worker. Data-driven solutions searcher, defining and solving questions that data may provide in a information society that changes and evolves dinamically day by day. Mi skills cover not only mathematical expertise but also hands on scientifc programming acquired in academic enviroment thoroughly. Within the tools I have had close contact are: Python, C++, R, Matlab. Some projects can be seen in my GitHub Profile.<br/><br/>
+  Im an Electronic engineer, Msc. Electrical Engineering with specialization in automatics and robotics. Analytical and curious person, self lerner and hard team worker. Data-driven solutions searcher, defining and solving questions that data may provide in a information society that changes and evolves dinamically day by day. Mi skills cover not only mathematical expertise but also hands on scientifc programming acquired in academic enviroment thoroughly. Within the tools I have had close contact are: Python, C++, R, Matlab. Some projects can be seen in my GitHub Profile.<br/><br/>
   I have worked across a broad range of technologies thereon: R, Matlab, C++, Python. 
-  I enjoy building interesting solutions, I recognise that good code is contextual).<br/><br/>
-  I am currently booting my carrier right after achieving my master degree and am looking forward to develelop myself on datasciece and technology paths.
+  I enjoy building interesting solutions, I recognise that team work is essential in continues develop of new solutions and ideas.<br/><br/>
+  I am currently boosting my carrier right after achieving my master degree and am looking forward to develelop myself on datasciece and technology paths.
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
