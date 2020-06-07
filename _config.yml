@@ -82,7 +82,6 @@ speakerdeck:
    talks:
     - title: Forecasting of PM2.5 with Neural Networks
       speakerdeckId: dead034cbabe4c7f9f7e5cfeabf59fc3
-      speakerdeckId: preliminary-project-plan
       conference: Warsaw university of Technology, Warsaw 2018
     - title: Agile Machine Learning - from Theory to Production
       speakerdeckId: ec84f2f56e9743afb0675b1eeeb6b6ce
