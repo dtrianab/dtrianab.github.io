@@ -34,15 +34,15 @@ skills:
 #Work experience is required
 roles:
  - title: Coming soon
-   start: -
-   end: -
-   employer: -
-   description: -
-#  - title: Senior Engineer
-#    start: 2016
-#    end: 2017
-#    employer: Emerald Street Ventures
-#    description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
+   start: Coming soon
+   end: Coming soon
+   employer: Coming soon
+   description: Coming soon
+ - title: Engineer
+   start: 2016
+   end: 2017
+   employer: Company
+   description: job
 #  - title: Senior Engineer
 #    start: 2012
 #    end: 2016
